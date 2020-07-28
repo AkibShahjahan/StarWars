@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "TinyNetworking",
+        "repositoryURL": "https://github.com/objcio/tiny-networking",
+        "state": {
+          "branch": null,
+          "revision": "15a416c762e2a91f9eac73b3fbe55adf571c3aba",
+          "version": "0.4.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
